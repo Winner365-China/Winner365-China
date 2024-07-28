@@ -1,15 +1,33 @@
 ### Hi，我是Winner365
 来自中国，是一名在校学生。
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=winner365-china&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Winner365-china&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Winner365-china&theme=github" />
-  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=winner365-china&show_icons=true&hide_border=true&show=reviews&rank_icon=percentile&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=winner365-china&show_icons=true&hide_border=true&show=reviews&rank_icon=percentile"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=winner365-china&show_icons=true&hide_border=true&show=reviews&rank_icon=percentile" />
+  </picture>
+</a>
+
+<a href="https://github.com/HwangTaehyun/github-repository-contribution-stats">
+  <picture>
+    <source
+      srcset="https://github-contributor-stats.vercel.app/api?username=winner365-china&hide_border=true&limit=5&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-contributor-stats.vercel.app/api?username=winner365-china&hide_border=true&limit=5"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-contributor-stats.vercel.app/api?username=winner365-china&hide_border=true&limit=5">
+  </picture>
+</a>
 </div>
 
 <div align="center">
