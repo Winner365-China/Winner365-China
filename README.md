@@ -39,7 +39,7 @@
 我的网站：
 <a href="https://365sites.top/?from=github-homepage" target="_blank">个人主页</a>
 
-目前熟悉但**不精通**于以下技能（按接触时间先后）:
+目前熟悉但**不精通**于以下技能（按接触时间先后排序）:
 
 HTML,JavaScript,CSS,Vue
 
